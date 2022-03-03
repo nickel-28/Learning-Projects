@@ -1,2 +1,2 @@
 # Learning Project
-![alt text](1.jpg)
+![alt text](images/1.jpg)
