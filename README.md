@@ -1,2 +1,2 @@
 # Learning Project
-![alt text](images/1.png)
+![alt text](1.png)
